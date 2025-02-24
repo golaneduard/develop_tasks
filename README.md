@@ -1,1 +1,3 @@
-# develop_tasks
+# 1. Leetcode
+# 2. Kubernetes Certifications
+# 3. Books
